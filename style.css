@@ -1,0 +1,50 @@
+* {
+  font-family: Arial;
+  font-size: 12;
+}
+
+#header {
+  padding-top: 15px;
+}
+
+.heads {
+  padding: 24px;
+}
+
+.uinput {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+}
+
+.uinputblock {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  width: 70%;
+}
+#message {
+  height: 422px;
+}
+
+button {
+  width: 200px;
+}
+hr {
+  padding: 2px;
+  padding-bottom: 0px;
+}
+.buttons {
+  float: right;
+  margin: 15px;
+  margin-top: 0px;
+}
+.line {
+  padding-bottom: 0px;
+}
+.has-error {
+  border-color: red;
+}
+.fa-phone {
+  width: 14px;
+}
